@@ -1,0 +1,29 @@
+.tweet {
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .tweet .username {
+    font-weight: bold;
+    color: #1da1f2;
+  }
+  
+  .tweet .name {
+    margin-left: 10px;
+    font-size: 0.7em;
+    color: #657786;
+  }
+  
+  .tweet .date {
+    float: right;
+    font-size: 0.8em;
+    color: #657786;
+  }
+  
+  .tweet .message {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  
